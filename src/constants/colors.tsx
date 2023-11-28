@@ -2,8 +2,8 @@ const Colors = {
   // PRIMARY
   primary: '#fb6d0f1a',
   primary100: '#ee9d0066',
-  primary200: '#EE9D00',
-  primary300: '#FEC53F',
+  primary200: '#ddd',
+  primary300: '#dddeee',
   primary400: '#FDC43E',
   primary500: '#FDBC3A',
   primary600: '#FB6E0F',
