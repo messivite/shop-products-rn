@@ -35,7 +35,6 @@ const FONTS = {
   poppinsThin: 'Poppins-Thin',
 };
 const defaultUserConfigs = {
-  SENDER_ID: '475150855811',
   ITEM_WIDTH: 100,
 };
 const apiPageUrls = {
